@@ -1,3 +1,19 @@
+
+--------------------
+
+> **:warning::warning: ANNOUNCEMENT :warning::warning:**
+
+**Please use the updated and composer compatible library: [Midtrans PHP](https://github.com/Midtrans/midtrans-php).
+For better more modern composer compatibility.**
+
+This repo still be here for archive and compatibility purpose. But it's always recommended to use the newer version [Midtrans PHP](https://github.com/Midtrans/midtrans-php).
+
+> **:speaker: END OF ANNOUNCEMENT :speaker:**
+
+---------------------
+
+
+
 Veritrans Laravel library
 =======================================================
 Veritrans :heart: Laravel!
